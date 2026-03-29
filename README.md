@@ -29,5 +29,5 @@ This project analyzes stock price data of major tech companies using Exploratory
 ## Dataset
 - Historical stock price data (CSV format)
 
-## 👩‍💻 Author
+##  Author
 Aditi Gupta
